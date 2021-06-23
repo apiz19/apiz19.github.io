@@ -18,7 +18,7 @@ author:
 
 # URL settings
 url: "https://apiz19.github.io" #
-baseurl: "/blog" # leave blank if not wishd
+baseurl: "" # leave blank if not wishd
 # permalink: "https://apiz19.github.io/blog"
 # permalink: pretty
 
